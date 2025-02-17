@@ -1,3 +1,1 @@
-# Password-Guesser
-
-Guesses passwords by trying all possible combinations
+# Password-Guesser - Guesses passwords by trying all possible combinations
